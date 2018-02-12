@@ -1,0 +1,16 @@
+{
+    "version": "0.48.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/goreleaser/goreleaser/releases/download/0.48.0/goreleaser_Windows_i386.zip",
+            "bin": "goreleaser.exe"
+        },
+        "64bit": {
+            "url": "https://github.com/goreleaser/goreleaser/releases/download/0.48.0/goreleaser_Windows_x86_64.zip",
+            "bin": "goreleaser.exe"
+        }
+    },
+    "homepage": "http://goreleaser.github.io",
+    "license": "MIT",
+    "description": "Deliver Go binaries as fast and easily as possible"
+}
