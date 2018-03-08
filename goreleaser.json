@@ -1,12 +1,12 @@
 {
-    "version": "0.60.0",
+    "version": "0.61.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/goreleaser/goreleaser/releases/download/v0.60.0/goreleaser_Windows_i386.zip",
+            "url": "https://github.com/goreleaser/goreleaser/releases/download/v0.61.0/goreleaser_Windows_i386.zip",
             "bin": "goreleaser.exe"
         },
         "64bit": {
-            "url": "https://github.com/goreleaser/goreleaser/releases/download/v0.60.0/goreleaser_Windows_x86_64.zip",
+            "url": "https://github.com/goreleaser/goreleaser/releases/download/v0.61.0/goreleaser_Windows_x86_64.zip",
             "bin": "goreleaser.exe"
         }
     },
