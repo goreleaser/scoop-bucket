@@ -1,15 +1,15 @@
 {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/goreleaser/nfpm/releases/download/v2.4.0/nfpm_2.4.0_Windows_x86_64.tar.gz",
+            "url": "https://github.com/goreleaser/nfpm/releases/download/v2.5.0/nfpm_2.5.0_Windows_x86_64.zip",
             "bin": [
                 "nfpm.exe"
             ],
-            "hash": "eb2bbc4a6aad38cca26a26fbb3e850500e5228b6160fe27d95be752f5e1c35e4"
+            "hash": "46d6523f83ae4af861cc5166802b1fa89071d47beee21a36f71cd0995f885138"
         }
     },
     "homepage": "https://goreleaser.com",
     "license": "MIT",
-    "description": "Deliver Go binaries as fast and easily as possible"
+    "description": "NFPM is a simple, 0-dependencies, deb, rpm and apk packager."
 }
