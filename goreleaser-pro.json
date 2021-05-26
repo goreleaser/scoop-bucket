@@ -6,14 +6,14 @@
             "bin": [
                 "goreleaser.exe"
             ],
-            "hash": "211c9628f40a6cff05ff041b6c271217b8b3e132d7d0fe7b510956ba532f85ec"
+            "hash": "3902e963bd7aabe58d3b164496c330c0eb6250ef1a71407e36a5b10e307f2432"
         },
         "64bit": {
             "url": "https://github.com/goreleaser/goreleaser-pro/releases/download/v0.166.0-pro/goreleaser-pro_Windows_x86_64.zip",
             "bin": [
                 "goreleaser.exe"
             ],
-            "hash": "875b51141e49156a875debd0c54ae31b219d9e2c5c0822be1a6eb0409e143631"
+            "hash": "544ae5939f266820f45a99d6db473d3098e577d87dcf9dc1637d6ba45c550290"
         }
     },
     "homepage": "https://goreleaser.com",
