@@ -1,0 +1,22 @@
+{
+    "version": "0.166.0-pro",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/goreleaser/goreleaser-pro/releases/download/v0.166.0-pro/goreleaser-pro_Windows_i386.zip",
+            "bin": [
+                "goreleaser.exe"
+            ],
+            "hash": "211c9628f40a6cff05ff041b6c271217b8b3e132d7d0fe7b510956ba532f85ec"
+        },
+        "64bit": {
+            "url": "https://github.com/goreleaser/goreleaser-pro/releases/download/v0.166.0-pro/goreleaser-pro_Windows_x86_64.zip",
+            "bin": [
+                "goreleaser.exe"
+            ],
+            "hash": "875b51141e49156a875debd0c54ae31b219d9e2c5c0822be1a6eb0409e143631"
+        }
+    },
+    "homepage": "https://goreleaser.com",
+    "license": "Copyright Becker Software LTDA",
+    "description": "Deliver Go binaries as fast and easily as possible"
+}
