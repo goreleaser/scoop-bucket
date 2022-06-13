@@ -1,12 +1,12 @@
 {
-    "version": "2.15.1",
+    "version": "2.16.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/goreleaser/nfpm/releases/download/v2.15.1/nfpm_2.15.1_Windows_x86_64.zip",
+            "url": "https://github.com/goreleaser/nfpm/releases/download/v2.16.0/nfpm_2.16.0_Windows_x86_64.zip",
             "bin": [
                 "nfpm.exe"
             ],
-            "hash": "749c77d62abcfd9632d72883e9fde0c1ef7061e105fe05084cd5a70436d83362"
+            "hash": "f9cbac68c7b89e0f0092f8226b1d5487155a6c9c469b3d574796e47eb6fac729"
         }
     },
     "homepage": "https://nfpm.goreleaser.com",
