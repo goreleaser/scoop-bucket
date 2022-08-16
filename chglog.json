@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/goreleaser/chglog/releases/download/v0.2.0/chglog_0.2.0_Windows_x86_64.tar.gz",
+            "url": "https://github.com/goreleaser/chglog/releases/download/v0.2.1/chglog_0.2.1_Windows_x86_64.tar.gz",
             "bin": [
                 "chglog.exe"
             ],
-            "hash": "073281581c13cb251bfbbdadcbccf44528c680ddcd93a7ad45b711902393d687"
+            "hash": "912c5d3951bd9db278bfb3e04480b4977f2ebc827d5e3b139d067d694b52c6ce"
         }
     },
     "homepage": "https://goreleaser.com",
