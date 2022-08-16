@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/goreleaser/chglog/releases/download/v0.2.0/chglog_0.2.0_Windows_x86_64.tar.gz",
+            "bin": [
+                "chglog.exe"
+            ],
+            "hash": "073281581c13cb251bfbbdadcbccf44528c680ddcd93a7ad45b711902393d687"
+        }
+    },
+    "homepage": "https://goreleaser.com",
+    "license": "MIT",
+    "description": "Deliver Go binaries as fast and easily as possible"
+}
