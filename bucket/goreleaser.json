@@ -1,19 +1,19 @@
 {
-    "version": "1.17.2",
+    "version": "1.18.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/goreleaser/goreleaser/releases/download/v1.17.2/goreleaser_Windows_i386.zip",
+            "url": "https://github.com/goreleaser/goreleaser/releases/download/v1.18.0/goreleaser_Windows_i386.zip",
             "bin": [
                 "goreleaser.exe"
             ],
-            "hash": "b6b840994b5e0e68fa36feb09ae321c6c5fe860119c65cbe3e3ec9e5975c4854"
+            "hash": "5738a295ae0928bad225e24b5d01d0add6566effbf8269f389abdae281af65c0"
         },
         "64bit": {
-            "url": "https://github.com/goreleaser/goreleaser/releases/download/v1.17.2/goreleaser_Windows_x86_64.zip",
+            "url": "https://github.com/goreleaser/goreleaser/releases/download/v1.18.0/goreleaser_Windows_x86_64.zip",
             "bin": [
                 "goreleaser.exe"
             ],
-            "hash": "4e076015531baa48a818b4c4968fabc4c1616cb7df19308457f3769dd7189bfc"
+            "hash": "6675aaa3a041529b4f2519c01587285fba2a45ab2ffd58f9a97522efe89b5c52"
         }
     },
     "homepage": "https://goreleaser.com",
